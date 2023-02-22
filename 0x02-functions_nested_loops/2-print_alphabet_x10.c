@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - print_alphabet_x10
+ * main - Entry point
  * print_alphabet_x10 - A function that prints x10 alphabets
  *
  * Return: 0 (success)
