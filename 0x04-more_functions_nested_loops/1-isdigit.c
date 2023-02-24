@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * int _isdigit - function that checks a digit (0 through 9)
- * @c: char to be checked
+ * __isdigit - checks if parameter is a number between 0 to 9.
+ * @c: input number
  *
  * Return: 1 if c is a digit, 0 otherwise
  */
