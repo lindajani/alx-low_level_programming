@@ -22,10 +22,14 @@ void print_diagonal(int n)
 	{
 	for (y = 0; y < x; y++)
 	{
-	putchar(92);
+	putchar(',');
 	}
 	putchar(92);
+	if (x < (n-1))
 	putchar('\n');
 	}
+	putchar('\n');
 	}
 }
+	
+
